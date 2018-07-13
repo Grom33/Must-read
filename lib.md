@@ -2,27 +2,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)"/>
-	<meta name="created" content="2018-07-13T11:02:00"/>
-	<meta name="changed" content="2018-07-13T11:04:00"/>
-	<style type="text/css">
-		@page { margin: 0.79in }
-		p { margin-bottom: 0.1in; direction: ltr; color: #000000; line-height: 115%; text-align: left; orphans: 2; widows: 2 }
-		p.western { font-family: "Liberation Serif", serif; font-size: 12pt }
-		p.cjk { font-family: "Lohit Devanagari"; font-size: 12pt; so-language: hi-IN }
-		p.ctl { font-family: "Liberation Serif"; font-size: 12pt; so-language: ru-RU }
-		h1 { margin-bottom: 0.08in; direction: ltr; color: #000000; text-align: left; orphans: 2; widows: 2 }
-		h1.western { font-family: "Liberation Serif", sans-serif }
-		h1.cjk { font-family: "Lohit Devanagari"; font-size: 24pt; so-language: hi-IN }
-		h1.ctl { font-family: "Liberation Serif"; font-size: 12pt; so-language: ru-RU; font-weight: normal }
-		h2 { direction: ltr; color: #000000; text-align: left; orphans: 2; widows: 2 }
-		h2.western { font-family: "Liberation Serif", sans-serif }
-		h2.cjk { font-family: "Lohit Devanagari"; so-language: hi-IN }
-		h2.ctl { font-family: "Liberation Serif"; font-size: 12pt; so-language: ru-RU; font-weight: normal }
-		a.western:link { so-language: zxx }
-		a.cjk:link { so-language: zxx }
-	</style>
 </head>
 <body lang="ru-RU" text="#000000" dir="ltr">
 <h1 class="western"><font face="Liberation Serif, serif"><font size="6" style="font-size: 24pt"><b>Литература</b></font></font></h1>
